@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 It is now  includes steps for GitHub.
 
 One more change to understand the git pull.
+
+New line added to learn about pushing branch to Github
